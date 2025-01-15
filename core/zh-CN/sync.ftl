@@ -77,3 +77,11 @@ sync-added-updated-count = 已新增/修改：{ $up }↑ { $down }↓
 sync-log-in-button = 登录
 sync-log-out-button = 退出登录
 sync-collection-complete = 集合同步完成
+
+sign_up_dialog = 注册
+sign_up_lbl_email = 邮箱
+sign_up_lbl_name = 用户名
+sign_up_lbl_password = 密码
+sign_up_lbl_password_confirm = 密码确认
+sign_up_ok_button = 注册
+sign_up_cancel_button = 取消
